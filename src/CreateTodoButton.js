@@ -1,15 +1,16 @@
 import "./CreateTodoButton.css"
-function CreateTodoButton(){
+function CreateTodoButton(setTodos){
 
-    const onClickButton = (msg)=>{
-        alert(msg)
+    const onClickButton = ()=>{
+        alert('nuevo')
+        setTodos()
     }
 
 
     return (
         <button
             className="CreateTodoButton"
-            onClick={()=>onClickButton("hola")}
+            onClick={onClickButton}
         >+</button>
     )
 }
