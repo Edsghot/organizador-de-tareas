@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Edsghot/organizador-de-tareas/static/css/main.675b28ef.css",
+    "main.js": "/Edsghot/organizador-de-tareas/static/js/main.cbfa935a.js",
+    "index.html": "/Edsghot/organizador-de-tareas/index.html",
+    "main.675b28ef.css.map": "/Edsghot/organizador-de-tareas/static/css/main.675b28ef.css.map",
+    "main.cbfa935a.js.map": "/Edsghot/organizador-de-tareas/static/js/main.cbfa935a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.675b28ef.css",
+    "static/js/main.cbfa935a.js"
+  ]
+}
