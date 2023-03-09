@@ -8,7 +8,7 @@ function TodoItem(props){
             onClick={props.onComplete}
         >✓</span>
         <p className={`TodoItem-p ${props.completed && 'TodoItem-p--completed'}`}>
-            Text:{props.text}
+            {props.text}
         </p>
         <span 
             className="Icon Icon-delete"
