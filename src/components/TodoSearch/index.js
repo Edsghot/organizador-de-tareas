@@ -1,6 +1,6 @@
 import React from 'react'
 import './TodoSearch.css'
-import { TodoContext } from "../todoContext/index.js";
+import { TodoContext } from "../todoContext";
 
 
 function TodoSearch(){
